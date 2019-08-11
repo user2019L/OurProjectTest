@@ -47,7 +47,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         }
     };
-//hhhh
+//hhh
 
 
     RadioButton radioButton_doc,radioButton_stu;
